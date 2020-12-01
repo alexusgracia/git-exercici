@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi, i'm Alexandre
 Modificació des de master/main
+=======
+Hi, i'm Alexandre and that's a modification
+>>>>>>> branch1
